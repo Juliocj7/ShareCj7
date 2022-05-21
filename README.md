@@ -24,11 +24,12 @@
 
 
 ## Menú Principal :
-![Screenshot_20210824-172922_Termux](https://user-images.githubusercontent.com/81049859/130694730-ccfe4ab0-4e3a-446f-ada5-54c48ac3de6f.png)
+![Screenshot_20220520-221825_Termux](https://user-images.githubusercontent.com/81049859/169630726-8a220b48-eee7-4f93-a885-747c199d1b42.png)
+
 
 
 ## ShareCj7 :
-* Comparte **archivos y directorios** gracias a Ngrok.
+* Comparte **archivos y directorios** gracias a la nueva versión de Ngrok.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
