@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221227-161931_Termux](https://user-images.githubusercontent.com/81049859/209718434-9572dbfd-5002-4a1b-b50f-0d30337d11c6.png)
+![1000328331](https://github.com/Juliocj7/ShareCj7/assets/81049859/4d177af3-5974-4b90-bafc-71ea126396eb)
 
 ## ShareCj7 :
 * Comparte **archivos y directorios** gracias a la nueva versión de Ngrok.
