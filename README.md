@@ -46,7 +46,8 @@ ______________________________________________________
 ![1000328331](https://github.com/Juliocj7/ShareCj7/assets/81049859/4d177af3-5974-4b90-bafc-71ea126396eb)
 
 ## ShareCj7 :
-* Comparte **archivos** y **directorios** dentro y fuera de tu red local gracias a Ngrok.
+* Comparte **archivos** y **directorios** dentro y fuera de tu red local por medio de Ngrok.
+* Con soporte de contraseña para una mayor seguridad y confiabilidad.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
