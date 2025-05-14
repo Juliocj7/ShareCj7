@@ -42,7 +42,7 @@
 </div>
 
 ## Menú Principal :
-![1000328331](https://github.com/Juliocj7/ShareCj7/assets/81049859/4d177af3-5974-4b90-bafc-71ea126396eb)
+[![1000328331](https://github.com/user-attachments/assets/61966d18-e00c-41f0-afcd-ad69582dab6a)](#---)
 
 ## ShareCj7 :
 * Comparte **archivos** y **directorios** dentro y fuera de tu red local por medio de ngrok.
